@@ -1,4 +1,6 @@
-Esse projeto é construído com o Framework [NextJS](https://nextjs.org/). O projeto foi inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Tabuleiro](https://user-images.githubusercontent.com/25587189/132251492-dcf4ebc1-e811-48bf-b59d-4e812ed716ab.png)
+
+Esse projeto é construído com o Framework [NextJS](https://nextjs.org/). 
 
 ## Iniciando o projeto
 
